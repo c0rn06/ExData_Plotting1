@@ -1,3 +1,5 @@
+This code assumes the .txt file to load is in the working directory
+
 ## Introduction
 
 This assignment uses data from
